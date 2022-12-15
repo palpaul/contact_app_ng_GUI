@@ -8,3 +8,6 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'curdapigui';
 }
+
+// we want to apply search based  on Id,name or any paramter that hot to do that..??
+
